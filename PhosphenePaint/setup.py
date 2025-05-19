@@ -9,6 +9,7 @@ setup(
         "numpy",
         "opencv-python",
         "torch",
+        "matplotlib",
         "dynaphos @ git+https://github.com/neuralcodinglab/dynaphos.git"  # if it's not on PyPI
     ],
     entry_points={
