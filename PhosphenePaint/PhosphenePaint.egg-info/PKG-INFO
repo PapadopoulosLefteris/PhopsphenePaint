@@ -1,0 +1,8 @@
+Metadata-Version: 2.4
+Name: PhosphenePaint
+Version: 0.1
+Requires-Dist: numpy
+Requires-Dist: opencv-python
+Requires-Dist: torch
+Requires-Dist: dynaphos@ git+https://github.com/neuralcodinglab/dynaphos.git
+Dynamic: requires-dist

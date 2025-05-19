@@ -1,0 +1,7 @@
+setup.py
+PhosphenePaint.egg-info/PKG-INFO
+PhosphenePaint.egg-info/SOURCES.txt
+PhosphenePaint.egg-info/dependency_links.txt
+PhosphenePaint.egg-info/entry_points.txt
+PhosphenePaint.egg-info/requires.txt
+PhosphenePaint.egg-info/top_level.txt

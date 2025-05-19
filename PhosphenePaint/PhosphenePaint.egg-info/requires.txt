@@ -1,0 +1,4 @@
+numpy
+opencv-python
+torch
+dynaphos@ git+https://github.com/neuralcodinglab/dynaphos.git
